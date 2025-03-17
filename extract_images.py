@@ -1,3 +1,7 @@
+###########################################################
+###   Extract images from videos to make the dataset    ###
+###########################################################
+
 import cv2
 import os
 import numpy as np
