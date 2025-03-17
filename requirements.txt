@@ -1,0 +1,10 @@
+## These are requirements for python environment in Raspbery Pi
+
+numpy < 2.0.0   #tf does not support numpy 2.x
+tflite_runtime
+opencv-python
+cvzone
+paddlepaddle
+paddleocr
+pandas
+ultralytics
