@@ -1,0 +1,6 @@
+Supervision cheatsheet - https://roboflow.github.io/cheatsheet-supervision/
+
+Datasets for training:
+
+Initial training - https://universe.roboflow.com/my-space-p2eer/licenseplate-apu6u-mt4ow
+fine tuning - https://universe.roboflow.com/my-space-p2eer/my_lpr/dataset/2

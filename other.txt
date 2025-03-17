@@ -1,1 +1,0 @@
-Supervision cheatsheet - https://roboflow.github.io/cheatsheet-supervision/
